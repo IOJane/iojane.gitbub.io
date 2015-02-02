@@ -1,4 +1,4 @@
-# iojane.gitbub.io
+# iojane.github.io
 Jane's page here. 
 http://www.jellykitty.com
 ==changelog==
