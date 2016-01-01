@@ -405,9 +405,14 @@
 		color: #999 !important;
 		opacity: 1.0;
 	}
+	
+/*content*/
+  .post-context{
+       background: #fff;
+       text-align:left;
+    }
 
 /* Box */
-
 	.box {
 		background: #fff;
 		border-radius: 6px;
